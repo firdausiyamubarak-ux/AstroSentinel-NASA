@@ -44,5 +44,6 @@ device.
 - Canadian Space Agency, monitoring radiation for astronaut health:
   https://www.asc-csa.gc.ca/eng/news/articles/2026/2026-02-26-monitoring-radiation-astronaut-health.asp
 - Python libraries: NumPy, pandas, scikit-learn, matplotlib, Streamlit (open source).
+- AI acknowledgement: The code and text in this project were written with the help of an AI assistant (Claude, by Anthropic). The machine-learning methods are Isolation Forest and Ridge regression (scikit-learn). No AI-generated images or videos are used.
 
 License: Apache 2.0.
